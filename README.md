@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rohit Kumar Bhopal
 
-<!--
-**rohitbhopal/rohitbhopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network infrastructure and cybersecurity professional in the Greater Toronto Area with 5+ years of experience installing and supporting enterprise networks, and a graduate certificate in Cybersecurity & Threat Management from Seneca Polytechnic (2026).
 
-Here are some ideas to get you started:
+**Certification:** CompTIA Security+ (SY0-701)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Structured cabling and network infrastructure: Cat5e/6/6A, fiber, racks, patch panels, testing and documentation
+- First-level IT support and troubleshooting for end users across enterprise and school sites
+- Independent lab work in detection and response: Wazuh SIEM/EDR, Suricata and ELK mini-SOC, Active Directory and pfSense segmentation, AWS cloud security (WAF, GuardDuty), OWASP web application testing
+
+## Currently
+- Telecommunications Technician at TBD Telecom By Design (May 2023 - Present)
+- Studying for Microsoft SC-200
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/rohitbhopal/
